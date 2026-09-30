@@ -1,0 +1,11 @@
+{
+  "engines": {
+    "node": "22"
+  },
+  "name": "relay-node-template",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0"
+}
